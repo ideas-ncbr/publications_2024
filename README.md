@@ -10,3 +10,5 @@
 |  8   | "Scaling Laws for Fine-Grained Mixture of Experts" | Jan Ludziejewski, Jakub Krajewski, Kamil Adamczewski, Maciej Pióro, Michał Krutul, Szymon Antoniak, Kamil Ciebiera, Krystian Król, Tomasz Odrzygóźdź, Piotr Sankowski, Marek Cygan, Sebastian Jaszczur | ICLR 2024 | [Link](https://openreview.net/forum?id=Iizr8qwH7J) |
 |  9   | "MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts" | Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Michał Krutul, Jakub Krajewski, Szymon Antoniak, Piotr Miłoś, Marek Cygan, Sebastian Jaszczur | ICLR 2024 | [Link](https://openreview.net/forum?id=LRp8rCaYH7) |
 |  10   | "Online Multi-level Aggregation with Delays and Stochastic Arrivals" | Mathieu Mari, Michał Pawłowski, Runtian Ren, Piotr Sankowski | AAMAS | [Link](https://arxiv.org/abs/2404.09711) |
+|  11   | "General Markov Model for Solving Patrolling Games" | Andrzej Nagórko, Marcin Waniek, Małgorzata Róg, Michał Godziszewski, Barbara Rosiak, Tomasz P. Michalak | 40th Conference on Uncertainty in Artificial Intelligence 2024 (UAI 2024) | |
+
