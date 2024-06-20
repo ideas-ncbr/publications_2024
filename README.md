@@ -16,3 +16,5 @@
 |  14   | "NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering" | Wojciech Zając, Joanna Waczyńska, Piotr Borycki, Jacek Tabor, Maciej Zięba, Przemysław Spurek | Conference name: 24th International Conference on Computational Science (ICCS 2024) |[Link](https://arxiv.org/abs/2303.06226)  |
 |  15   | "Modeling 3D Surface Manifolds with a Locally Conditioned Atlas" | Przemysław Spurek, Sebastian Winczowski, Maciej Zięba, Tomasz Trzciński, Kacper Kania, Marcin Mazur | Conference name: 24th International Conference on Computational Science (ICCS 2024) | [Link](https://arxiv.org/abs/2102.05984v2) |
 |  16   | "Overestimation, Overfitting, and Plasticity in Actor-Critic: the Bitter Lesson of Reinforcement Learning" | Michal Nauman, Michał Bortkiewicz, Mateusz Ostaszewski, Piotr Miłoś, Tomasz Trzciński, Marek Cygan | ICML | [Link](https://arxiv.org/abs/2403.00514) |
+|  17  | "A deep cut into Split Federated Self-supervised Learning" | Marcin Przewięźlikowski, Marcin Osial, Bartosz Zieliński, Marek Śmieja | ECML PKDD 2024 | [Link](https://arxiv.org/abs/2406.08267) | [Link](https://github.com/gmum/MonAcoSFL) |
+
