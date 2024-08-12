@@ -28,3 +28,5 @@
 |  26  | "Exemplar-free Continual Representation Learning via Learnable Drift Compensation" | Alex Gomez-Villa, Dipam Goswami, Kai Wang, Andrew D. Bagdanov, Bartlomiej Twardowski, Joost van de Weijer | ECCV 2024 | [Link](https://arxiv.org/abs/2407.08536) | |
 |  27  | "Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem" | Maciej Wołczyk, Bartłomiej Cupiał, Mateusz Ostaszewski, Michał Bortkiewicz, Michał Zając, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś | ICML 2024 | [Link](https://arxiv.org/abs/2402.02868) | [Link](https://github.com/BartekCupial/finetuning-RL-as-CL) |
 |  28  | "Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment" | Tomer Ezra, Stefano Leonardi, Michał Pawłowski, Matteo Russo, Seeun William Umboh | APPROX 2024 | [Link](https://arxiv.org/abs/2407.15809) | |
+|  29  | "Machine Learning-assisted Detection of Breast Arterial Calcifications" | Aleksandra Osowska-Kurczab, Daan van den Oever, Ioannis Sechopoulos | MICCAI 2024 |  | |
+
