@@ -31,4 +31,6 @@
 |  29  | "Machine Learning-assisted Detection of Breast Arterial Calcifications" | Aleksandra Osowska-Kurczab, Daan van den Oever, Ioannis Sechopoulos | MICCAI 2024 |  | |
 |  30  | "AR-TTA: A Simple Method for Real World Continual Test-Time Adaptation" | Damian Sójka, Bartłomiej Twardowski, Tomasz Trzciński, Sebastian Cygert | BMVC 2024 | | |
 |  31  | "FaçAID: A Transformer Model for Neuro-Symbolic Facade Reconstruction" | Aleksander Plocharski, Jan Swidzinski, Joanna Porter-Sobieraj, Przemyslaw Musialski | SIGGRAPH ASIA 2024 | [Link](https://arxiv.org/abs/2406.01829) | |
+|  32  | "Online Multi-level Aggregation with Delays and Stochastic Arrivals" | Mathieu Mari, Michał Pawłowski, Runtian Ren, Piotr Sankowski | ISAAC 2024 | [Link](https://arxiv.org/abs/2404.09711) | |
+
 
