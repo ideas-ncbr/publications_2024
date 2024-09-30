@@ -33,5 +33,7 @@
 |  31  | "FaçAID: A Transformer Model for Neuro-Symbolic Facade Reconstruction" | Aleksander Plocharski, Jan Swidzinski, Joanna Porter-Sobieraj, Przemyslaw Musialski | SIGGRAPH ASIA 2024 | [Link](https://arxiv.org/abs/2406.01829) | |
 |  32  | "Online Multi-level Aggregation with Delays and Stochastic Arrivals" | Mathieu Mari, Michał Pawłowski, Runtian Ren, Piotr Sankowski | ISAAC 2024 | [Link](https://arxiv.org/abs/2404.09711) | |
 |  33  | "Exploiting Activation Sparsity with Dense to Dynamic-k Mixture-of-Experts Conversion" | Filip Szatkowski, Bartosz Wójcik, Mikołaj Piórczyński, Simone Scardapane | NeurIPS 2024 | [Link](https://arxiv.org/abs/2310.04361) | |
+|  34  | "Let Me DeCode You: Decoder Conditioning with Tabular Data" | Tomasz Szczepański, Michal K. Grzeszczyk, Szymon Płotka, Arleta Adamowicz, Piotr Fudalej, Przemysław Korzeniowski, Tomasz Trzciński, Arkadiusz Sitek | MICCAI 2024 | [Link](https://arxiv.org/abs/2407.09437) | [Link](https://github.com/SanoScience/DeCode) |
+
 
 
