@@ -32,5 +32,6 @@
 |  30  | "AR-TTA: A Simple Method for Real World Continual Test-Time Adaptation" | Damian Sójka, Bartłomiej Twardowski, Tomasz Trzciński, Sebastian Cygert | BMVC 2024 | | |
 |  31  | "FaçAID: A Transformer Model for Neuro-Symbolic Facade Reconstruction" | Aleksander Plocharski, Jan Swidzinski, Joanna Porter-Sobieraj, Przemyslaw Musialski | SIGGRAPH ASIA 2024 | [Link](https://arxiv.org/abs/2406.01829) | |
 |  32  | "Online Multi-level Aggregation with Delays and Stochastic Arrivals" | Mathieu Mari, Michał Pawłowski, Runtian Ren, Piotr Sankowski | ISAAC 2024 | [Link](https://arxiv.org/abs/2404.09711) | |
+|  33  | "Exploiting Activation Sparsity with Dense to Dynamic-k Mixture-of-Experts Conversion" | Filip Szatkowski, Bartosz Wójcik, Mikołaj Piórczyński, Simone Scardapane | NeurIPS 2024 | [Link](https://arxiv.org/abs/2310.04361) | |
 
 
