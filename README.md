@@ -35,6 +35,5 @@
 |  33  | "Exploiting Activation Sparsity with Dense to Dynamic-k Mixture-of-Experts Conversion" | Filip Szatkowski, Bartosz Wójcik, Mikołaj Piórczyński, Simone Scardapane | NeurIPS 2024 | [Link](https://arxiv.org/abs/2310.04361) | |
 |  34  | "Let Me DeCode You: Decoder Conditioning with Tabular Data" | Tomasz Szczepański, Michal K. Grzeszczyk, Szymon Płotka, Arleta Adamowicz, Piotr Fudalej, Przemysław Korzeniowski, Tomasz Trzciński, Arkadiusz Sitek | MICCAI 2024 | [Link](https://arxiv.org/abs/2407.09437) | [Link](https://github.com/SanoScience/DeCode) |
 |  35  | "Neural network interatomic potentials for open surface nano-mechanics application" | Amirhossein D. Naghdi,  Franco Pellegrini,  Emine Küçükbenli,  Dario Massa,  F. Javier Dominguez–Gutierrez,  Efthimios Kaxiras,  Stefanos Papanikolaou | Acta Materialia journal | [Link](https://www.sciencedirect.com/science/article/pii/S1359645424005500?via%3Dihub) | |
-
-
+|  36  | "Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning" | Grzegorz Rypeść, Sebastian Cygert, Tomasz Trzciński, Bartłomiej Twardowski | NeurIPS 2024 | [Link](https://arxiv.org/abs/2409.18265) | [Link](https://github.com/grypesc/AdaGauss) |
 
