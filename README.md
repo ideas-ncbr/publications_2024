@@ -36,4 +36,6 @@
 |  34  | "Let Me DeCode You: Decoder Conditioning with Tabular Data" | Tomasz Szczepański, Michal K. Grzeszczyk, Szymon Płotka, Arleta Adamowicz, Piotr Fudalej, Przemysław Korzeniowski, Tomasz Trzciński, Arkadiusz Sitek | MICCAI 2024 | [Link](https://arxiv.org/abs/2407.09437) | [Link](https://github.com/SanoScience/DeCode) |
 |  35  | "Neural network interatomic potentials for open surface nano-mechanics application" | Amirhossein D. Naghdi,  Franco Pellegrini,  Emine Küçükbenli,  Dario Massa,  F. Javier Dominguez–Gutierrez,  Efthimios Kaxiras,  Stefanos Papanikolaou | Acta Materialia journal | [Link](https://www.sciencedirect.com/science/article/pii/S1359645424005500?via%3Dihub) | |
 |  36  | "Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning" | Grzegorz Rypeść, Sebastian Cygert, Tomasz Trzciński, Bartłomiej Twardowski | NeurIPS 2024 | [Link](https://arxiv.org/abs/2409.18265) | [Link](https://github.com/grypesc/AdaGauss) |
+| 37 | "Augmentation-aware Self-supervised Learning with Conditioned Projector" | Marcin Przewięźlikowski, Mateusz Pyla, Bartosz Zieliński, Bartłomiej Twardowski, Jacek Tabor, Marek Śmieja | Knowledge-Based Systems Journal | [Link](https://www.sciencedirect.com/science/article/pii/S0950705124012061) / [arXiv](https://arxiv.org/abs/2306.06082)  | [Link](https://github.com/gmum/CASSLE) |
+
 
