@@ -38,5 +38,12 @@
 |  36  | "Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning" | Grzegorz Rypeść, Sebastian Cygert, Tomasz Trzciński, Bartłomiej Twardowski | NeurIPS 2024 | [Link](https://arxiv.org/abs/2409.18265) | [Link](https://github.com/grypesc/AdaGauss) |
 | 37 | "Augmentation-aware Self-supervised Learning with Conditioned Projector" | Marcin Przewięźlikowski, Mateusz Pyla, Bartosz Zieliński, Bartłomiej Twardowski, Jacek Tabor, Marek Śmieja | Knowledge-Based Systems Journal | [Link](https://www.sciencedirect.com/science/article/pii/S0950705124012061) / [arXiv](https://arxiv.org/abs/2306.06082)  | [Link](https://github.com/gmum/CASSLE) |
 |  38  | "Accurate estimation of feature importance faithfulness for tree models" | Mateusz Gajewski, Adam Karczmarz, Mateusz Rapicki, Piotr Sankowski | AAAI-25 | [Link](https://arxiv.org/abs/2404.03426) ||
+|  39  | "From Random Probing to Noisy Leakages Without Field-Size Dependence" | Gianluca Brian, Stefan Dziembowski, Sebastian Faust | EUROCRYPT 2024 | [Link](https://eprint.iacr.org/2024/339.pdf) ||
+|  40  | "Secret Sharing with Snitching" | Stefan Dziembowski, Sebastian Faust, Tomasz Lizurej, Marcin Mielniczuki | 31st ACM Conference on Computer and Communications Security (ACM CCS 2024) | [Link](https://eprint.iacr.org/2024/1610.pdf) ||
+|  41  | "Password-Protected Threshold Signatures" | Stefan Dziembowski, Stanisław Jarecki, Paweł Kędzior, Hugo Krawczyk, Chan Nam Ngo, Jiayu Xu | ASIACRYPT 2024 - 30th International Conference on the Theory and Application of Cryptology and Information Security | [Link](https://eprint.iacr.org/2024/1469) ||
+|  42  | "Bribe & Fork: Cheap Bribing Attacks via Forking Threat" | Zeta Avarikioti, Paweł Kędzior, Tomasz Lizurej, Tomasz Michalak | Advances in Financial Technologies - AFT 2024 | [Link](https://arxiv.org/abs/2402.01363) ||
+
+
+
 
 
